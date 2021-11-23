@@ -132,7 +132,7 @@ Project：[海岛漂流]( https://github.com/liusihai7931/-/blob/main/README.md)
 
 #### 2.1.1 仓库地址
 
-[-/07-02-项目计划安排表(1).docx at main · liusihai7931/-  https://github.com/liusihai7931/-/blob/main/07-02-%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92%E5%AE%89%E6%8E%92%E8%A1%A8(1).docx]( -/07-02-项目计划安排表(1).docx at main · liusihai7931/-  https://github.com/liusihai7931/-/blob/main/07-02-%E9%A1%B9%E7%9B%AE%E8%AE%A1%E5%88%92%E5%AE%89%E6%8E%92%E8%A1%A8(1).docx)
+[https://github.com/liusihai7931/-/blob/main/README.md](https://github.com/liusihai7931/-/blob/main/README.md)
 
 #### 2.1.2 issue截图
 
