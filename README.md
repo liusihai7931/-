@@ -1,6 +1,6 @@
 # 团队作业2：需求规格说明书
 
-Author：[歪瑞古德小队]( https://github.com/liusihai7931/-/blob/main/README.md)
+Author：[歪瑞古德小队]( https://github.com/liusihai7931/-)
 
 Project：[海岛漂流]( https://github.com/liusihai7931/-/blob/main/README.md)
 
@@ -92,7 +92,6 @@ Project：[海岛漂流]( https://github.com/liusihai7931/-/blob/main/README.md)
 |   **时间胶囊**   | 用户书写一封信<br/>   用户可以指定在将来某个时间打开这个胶囊<br/>      用户一开始只有3个胶囊<br/>   把一封信放进胶囊会消耗一颗胶囊 |
 
 ### 1.5 技术需求分析
-
 #### 1.5.1 开发技术选型
 
 **前端技术选型：**
